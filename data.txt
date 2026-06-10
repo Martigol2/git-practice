@@ -2,3 +2,6 @@ Name: Felipe
 Age: 30
 Favorite Color: morado
 deporte: correr 
+comida : lasagna 
+libro : el proximo 
+Campeon del mundial : Colomba
