@@ -10,4 +10,4 @@ git add .
 Committing file(s) to staging area
 git commit -m"<commit-message>"
 View changes history
-git log
+git lognew content
